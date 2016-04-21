@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>NServiceBus.Wire</id>
-    <version>$version$</version>
+    <version>$version$-beta001</version>
     <title>NServiceBus.Wire</title>
     <authors>Igal Tabachnik</authors>
     <owners>Igal Tabachnik</owners>
